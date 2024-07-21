@@ -9,3 +9,14 @@ any one can login as author or reader here
 here i have added the feature for the newslettter 
 ![image](https://github.com/user-attachments/assets/57de8bd7-76d2-4781-a24c-f651adc49152)
 user with author account can do the creatae blogs and do updates on them 
+![image](https://github.com/user-attachments/assets/e4b87866-26bf-46fa-b4bc-e13de0fd2f5d)
+only who registered as author can create blog posts 
+Also dark and white modes have been added here as the project part 
+handliing the backend to create the blog posts 
+
+![image](https://github.com/user-attachments/assets/a2fc9d5a-4ce7-4710-afab-15a26cc37922)
+
+checking the register using POST  in backend
+![image](https://github.com/user-attachments/assets/115fa435-3f83-46f9-9a6c-d35676957882)
+some of the errors i faced while making the post functionality 
+![image](https://github.com/user-attachments/assets/77ceb420-6805-41aa-ad3b-0ec9536d34cb)
